@@ -1,0 +1,11 @@
+C:\Users\mbosl_000\Documents\ImpatientSQuirrelRecovery\Impatient Squirrel\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\mbosl_000\Documents\ImpatientSQuirrelRecovery\Impatient Squirrel\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\mbosl_000\Documents\ImpatientSQuirrelRecovery\Impatient Squirrel\Temp\bin\Debug\UnityEditor.dll
+C:\Users\mbosl_000\Documents\ImpatientSQuirrelRecovery\Impatient Squirrel\Temp\bin\Debug\UnityEngine.dll
+C:\Users\mbosl_000\Documents\ImpatientSQuirrelRecovery\Impatient Squirrel\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\mbosl_000\Documents\ImpatientSQuirrelRecovery\Impatient Squirrel\Temp\bin\Debug\nunit.framework.dll
+C:\Users\mbosl_000\Documents\ImpatientSQuirrelRecovery\Impatient Squirrel\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\mbosl_000\Documents\ImpatientSQuirrelRecovery\Impatient Squirrel\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\mbosl_000\Documents\ImpatientSQuirrelRecovery\Impatient Squirrel\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\mbosl_000\Documents\ImpatientSQuirrelRecovery\Impatient Squirrel\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\mbosl_000\Documents\ImpatientSQuirrelRecovery\Impatient Squirrel\obj\Debug\Assembly-CSharp-firstpass.pdb
